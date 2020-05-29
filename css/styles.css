@@ -56,9 +56,11 @@ img {
 
 #miniature-img {
   float: left;
-  border-radius: 2px;
+  border: 2px solid darkslategrey;
+  border-radius: 8px;
   height: 100px;
   width: 100px;
+  padding: 5px;
   position: relative;
-  padding: 20px;
+  margin-bottom: 10px;
 }
