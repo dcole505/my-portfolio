@@ -12,19 +12,21 @@ to attend and intensive programming bootcamp. Additionally, there are links to p
 
 ## Setup/Installation Requirements
 
-* __
-* __
-* __
-* __
-* __
+* _In your web browser, navigate to [dcole505 my-portfolio repository](https://github.com/dcole505/my-portfolio)_
+* _In terminal, type '$ git clone https://github.com/dcole505/my-portfolio.git' To clone the project from GitHub onto your local machine_
+* _Navigate to the file folder that contains the GitHub repository you've cloned._
+* _Right click on the .HTML file and open it in your web browser to view_
+* _or_
+* _Open the file in the IDE of your choice to make changes to the file._
+
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_There are no known bugs or other issues at this time._
 
 ## Support and contact details
 
-_For any issues, please contact me: David Cole - davidtcole@yahoo.com_
+_For bugs, or any other issues, please contact me: David Cole - davidtcole@yahoo.com_
 
 ## Technologies Used
 
