@@ -64,3 +64,18 @@ img {
   position: relative;
   margin-bottom: 10px;
 }
+
+#footer {
+  clear: both;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  color: ghostwhite;
+}
+
+.fa {
+  font-size: 25px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+}
