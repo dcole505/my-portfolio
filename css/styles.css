@@ -1,6 +1,7 @@
 body {
   background-color: darkslategrey;
 }
+
 .jumbotron {
   background-image: url(../img/portland.jpg);
   background-size: cover;
@@ -13,6 +14,16 @@ body {
   1px -1px 0 black,
   -1px 1px 0 black,
   1px -1px 0 black;
+}
+
+img {
+  display: block;
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 25px;
 }
 
 .panel {
@@ -37,6 +48,7 @@ body {
   padding: 10px;
 }
 
-.objectives {
+#objectives {
   font-weight: bold;
+  text-align: left;
 }
