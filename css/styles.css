@@ -1,3 +1,13 @@
 .jumbotron {
+  background-image: url(../img/portland.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: Impact;
+  color: ghostwhite;
   text-align: center;
+  text-shadow:
+  -1px -1px 0 black,
+  1px -1px 0 black,
+  -1px 1px 0 black,
+  1px -1px 0 black;
 }
