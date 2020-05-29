@@ -1,3 +1,6 @@
+body {
+  background-color: darkslategrey;
+}
 .jumbotron {
   background-image: url(../img/portland.jpg);
   background-size: cover;
@@ -15,4 +18,25 @@
 .panel {
   text-align: center;
   font-family: sans-serif;
+}
+
+.styled-text {
+  font-weight: bold;
+  text-decoration: underline; 
+}
+
+#panel-3 {
+  text-align: left;
+}
+
+.header {
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  background-color: lightgrey;
+  padding: 10px;
+}
+
+.objectives {
+  font-weight: bold;
 }
