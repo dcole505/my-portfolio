@@ -41,6 +41,7 @@ img {
 }
 
 .header {
+  clear: both;
   text-align: center;
   font-weight: bold;
   color: black;
@@ -51,4 +52,13 @@ img {
 #objectives {
   font-weight: bold;
   text-align: left;
+}
+
+#miniature-img {
+  float: left;
+  border-radius: 2px;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  padding: 20px;
 }
