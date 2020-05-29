@@ -6,14 +6,9 @@ body {
   background-image: url(../img/portland.jpg);
   background-size: cover;
   background-position: center;
-  font-family: Impact;
-  color: ghostwhite;
+  font-family: 'Roboto', Arial;
+  color: mintcream;
   text-align: center;
-  text-shadow:
-  -1px -1px 0 black,
-  1px -1px 0 black,
-  -1px 1px 0 black,
-  1px -1px 0 black;
 }
 
 img {
@@ -28,7 +23,7 @@ img {
 
 .panel {
   text-align: center;
-  font-family: sans-serif;
+  font-family: 'Roboto', Arial;
 }
 
 .styled-text {
