@@ -18,6 +18,7 @@ to attend and intensive programming bootcamp. Additionally, there are links to p
 * _Right click on the .HTML file and open it in your web browser to view_
 * _or_
 * _Open the file in the IDE of your choice to make changes to the file._
+* _You can visit the website typing or pasting "https://dcole505.github.io/my-portfolio/" in the address bar of your browser._
 
 
 ## Known Bugs
